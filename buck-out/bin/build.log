@@ -1,0 +1,186 @@
+2015-10-05T03:48:21.416	INFO	Build started
+2015-10-05T03:48:21.827	INFO	BuildRuleStarted(//.okbuck/app:aar__appcompat-v7-23.0.1.aar#aar_unzip)
+2015-10-05T03:48:21.836	INFO	BuildRuleStarted(//.okbuck/app:aar__design-23.0.1.aar#aar_unzip)
+2015-10-05T03:48:21.845	INFO	BuildRuleSuspended(//.okbuck/app:aar__design-23.0.1.aar#aar_unzip)
+2015-10-05T03:48:21.845	INFO	BuildRuleStarted(//.okbuck/app:aar__design-23.0.1.aar#aar_prebuilt_jar)
+2015-10-05T03:48:21.847	INFO	BuildRuleSuspended(//.okbuck/app:aar__appcompat-v7-23.0.1.aar#aar_unzip)
+2015-10-05T03:48:21.847	INFO	BuildRuleStarted(//.okbuck/app:aar__appcompat-v7-23.0.1.aar#aar_prebuilt_jar)
+2015-10-05T03:48:21.862	INFO	BuildRuleSuspended(//.okbuck/app:aar__appcompat-v7-23.0.1.aar#aar_prebuilt_jar)
+2015-10-05T03:48:21.862	INFO	BuildRuleSuspended(//.okbuck/app:aar__design-23.0.1.aar#aar_prebuilt_jar)
+2015-10-05T03:48:21.863	INFO	BuildRuleStarted(//.okbuck/app:aar__support-v4-23.0.1.aar#aar_unzip)
+2015-10-05T03:48:21.863	INFO	BuildRuleStarted(//.okbuck/app:jars__support-annotations-23.0.1.jar)
+2015-10-05T03:48:21.863	INFO	BuildRuleStarted(//.okbuck/app:jars__umeng-analytics-v5.6.1.jar)
+2015-10-05T03:48:21.863	INFO	BuildRuleStarted(//app:app_keystore)
+2015-10-05T03:48:21.863	INFO	BuildRuleStarted(//.okbuck/app:aar__appcompat-v7-23.0.1.aar#abi)
+2015-10-05T03:48:21.865	INFO	BuildRuleSuspended(//app:app_keystore)
+2015-10-05T03:48:21.865	INFO	BuildRuleStarted(//.okbuck/app:aar__design-23.0.1.aar#abi)
+2015-10-05T03:48:21.866	INFO	BuildRuleSuspended(//.okbuck/app:aar__design-23.0.1.aar#abi)
+2015-10-05T03:48:21.866	INFO	BuildRuleSuspended(//.okbuck/app:aar__appcompat-v7-23.0.1.aar#abi)
+2015-10-05T03:48:21.866	INFO	BuildRuleStarted(//.okbuck/app:aar__appcompat-v7-23.0.1.aar)
+2015-10-05T03:48:21.867	INFO	BuildRuleSuspended(//.okbuck/app:jars__support-annotations-23.0.1.jar)
+2015-10-05T03:48:21.876	INFO	BuildRuleSuspended(//.okbuck/app:aar__appcompat-v7-23.0.1.aar)
+2015-10-05T03:48:21.876	INFO	BuildRuleSuspended(//.okbuck/app:jars__umeng-analytics-v5.6.1.jar)
+2015-10-05T03:48:21.877	INFO	BuildRuleStarted(//.okbuck/app:aar__design-23.0.1.aar)
+2015-10-05T03:48:21.878	INFO	BuildRuleSuspended(//.okbuck/app:aar__design-23.0.1.aar)
+2015-10-05T03:48:21.878	INFO	BuildRuleStarted(//app:res)
+2015-10-05T03:48:21.879	INFO	BuildRuleStarted(//.okbuck/app:aar__appcompat-v7-23.0.1.aar#aar_prebuilt_jar,dex)
+2015-10-05T03:48:21.880	INFO	BuildRuleStarted(//.okbuck/app:aar__design-23.0.1.aar#aar_prebuilt_jar,dex)
+2015-10-05T03:48:21.880	INFO	BuildRuleSuspended(//.okbuck/app:aar__appcompat-v7-23.0.1.aar#aar_prebuilt_jar,dex)
+2015-10-05T03:48:21.880	INFO	BuildRuleSuspended(//.okbuck/app:aar__design-23.0.1.aar#aar_prebuilt_jar,dex)
+2015-10-05T03:48:21.880	INFO	BuildRuleStarted(//.okbuck/app:jars__support-annotations-23.0.1.jar#dex)
+2015-10-05T03:48:21.880	INFO	BuildRuleStarted(//.okbuck/app:jars__umeng-analytics-v5.6.1.jar#dex)
+2015-10-05T03:48:21.880	INFO	BuildRuleSuspended(//.okbuck/app:jars__support-annotations-23.0.1.jar#dex)
+2015-10-05T03:48:21.880	INFO	BuildRuleSuspended(//.okbuck/app:jars__umeng-analytics-v5.6.1.jar#dex)
+2015-10-05T03:48:21.880	INFO	BuildRuleStarted(//.okbuck/annotation_processor_deps:all-aars)
+2015-10-05T03:48:21.883	INFO	BuildRuleSuspended(//app:res)
+2015-10-05T03:48:21.883	INFO	BuildRuleSuspended(//.okbuck/annotation_processor_deps:all-aars)
+2015-10-05T03:48:21.892	INFO	BuildRuleSuspended(//.okbuck/app:aar__support-v4-23.0.1.aar#aar_unzip)
+2015-10-05T03:48:21.892	INFO	BuildRuleStarted(//.okbuck/app:aar__support-v4-23.0.1.aar#abi)
+2015-10-05T03:48:21.892	INFO	BuildRuleStarted(//.okbuck/app:aar__support-v4-23.0.1.aar#aar_prebuilt_jar)
+2015-10-05T03:48:21.892	INFO	BuildRuleSuspended(//.okbuck/app:aar__support-v4-23.0.1.aar#aar_prebuilt_jar)
+2015-10-05T03:48:21.892	INFO	BuildRuleSuspended(//.okbuck/app:aar__support-v4-23.0.1.aar#abi)
+2015-10-05T03:48:21.892	INFO	BuildRuleStarted(//.okbuck/app:aar__support-v4-23.0.1.aar)
+2015-10-05T03:48:21.892	INFO	BuildRuleStarted(//.okbuck/app:aar__support-v4-23.0.1.aar#aar_prebuilt_jar,dex)
+2015-10-05T03:48:21.893	INFO	BuildRuleSuspended(//.okbuck/app:aar__support-v4-23.0.1.aar#aar_prebuilt_jar,dex)
+2015-10-05T03:48:21.893	INFO	BuildRuleSuspended(//.okbuck/app:aar__support-v4-23.0.1.aar)
+2015-10-05T03:48:21.893	INFO	BuildRuleStarted(//app:bin#aapt_package)
+2015-10-05T03:48:21.893	INFO	BuildRuleStarted(//app:bin#copy_native_libs)
+2015-10-05T03:48:21.894	INFO	BuildRuleSuspended(//app:bin#copy_native_libs)
+2015-10-05T03:48:21.895	INFO	BuildRuleSuspended(//app:bin#aapt_package)
+2015-10-05T03:48:21.896	INFO	BuildRuleStarted(//.okbuck/annotation_processor_deps:all-jars)
+2015-10-05T03:48:21.897	INFO	BuildRuleStarted(//.okbuck/app:all-aars#dummy_r_dot_java)
+2015-10-05T03:48:21.897	INFO	BuildRuleSuspended(//.okbuck/annotation_processor_deps:all-jars)
+2015-10-05T03:48:21.898	INFO	BuildRuleStarted(//.okbuck/app:jars__support-annotations-23.0.1.jar#abi)
+2015-10-05T03:48:21.899	INFO	BuildRuleSuspended(//.okbuck/app:jars__support-annotations-23.0.1.jar#abi)
+2015-10-05T03:48:21.899	INFO	BuildRuleStarted(//.okbuck/app:jars__umeng-analytics-v5.6.1.jar#abi)
+2015-10-05T03:48:21.899	INFO	BuildRuleSuspended(//.okbuck/app:all-aars#dummy_r_dot_java)
+2015-10-05T03:48:21.899	INFO	BuildRuleStarted(//app:src#dummy_r_dot_java)
+2015-10-05T03:48:21.899	INFO	BuildRuleStarted(//.okbuck/app:all-aars#abi,dummy_r_dot_java)
+2015-10-05T03:48:21.899	INFO	BuildRuleSuspended(//.okbuck/app:jars__umeng-analytics-v5.6.1.jar#abi)
+2015-10-05T03:48:21.899	INFO	BuildRuleStarted(//.okbuck/app:all-jars)
+2015-10-05T03:48:21.899	INFO	BuildRuleSuspended(//.okbuck/app:all-aars#abi,dummy_r_dot_java)
+2015-10-05T03:48:21.899	INFO	BuildRuleStarted(//.okbuck/app:all-aars)
+2015-10-05T03:48:21.900	INFO	BuildRuleSuspended(//.okbuck/app:all-jars)
+2015-10-05T03:48:21.900	INFO	BuildRuleSuspended(//app:src#dummy_r_dot_java)
+2015-10-05T03:48:21.901	INFO	BuildRuleStarted(//app:src#abi,dummy_r_dot_java)
+2015-10-05T03:48:21.901	INFO	BuildRuleSuspended(//.okbuck/app:all-aars)
+2015-10-05T03:48:21.901	INFO	BuildRuleSuspended(//app:src#abi,dummy_r_dot_java)
+2015-10-05T03:48:21.901	INFO	BuildRuleStarted(//app:src)
+2015-10-05T03:48:21.904	INFO	BuildRuleSuspended(//app:src)
+2015-10-05T03:48:21.904	INFO	BuildRuleStarted(//app:src#dex)
+2015-10-05T03:48:21.904	INFO	BuildRuleSuspended(//app:src#dex)
+2015-10-05T03:48:21.904	INFO	BuildRuleStarted(//app:bin#dex_merge)
+2015-10-05T03:48:21.905	INFO	BuildRuleSuspended(//app:bin#dex_merge)
+2015-10-05T03:48:21.905	INFO	BuildRuleStarted(//app:bin)
+2015-10-05T03:48:21.909	INFO	BuildRuleSuspended(//app:bin)
+2015-10-05T03:48:21.909	INFO	BuildRuleResumed(//app:bin)
+2015-10-05T03:48:21.910	INFO	BuildRuleSuspended(//app:bin)
+2015-10-05T03:48:21.910	INFO	BuildRuleResumed(//.okbuck/app:aar__appcompat-v7-23.0.1.aar#aar_prebuilt_jar)
+2015-10-05T03:48:21.911	INFO	BuildRuleResumed(//.okbuck/app:aar__design-23.0.1.aar#aar_prebuilt_jar)
+2015-10-05T03:48:21.911	INFO	BuildRuleResumed(//.okbuck/app:aar__design-23.0.1.aar#aar_unzip)
+2015-10-05T03:48:21.911	INFO	BuildRuleResumed(//.okbuck/app:aar__support-v4-23.0.1.aar#aar_prebuilt_jar)
+2015-10-05T03:48:21.911	INFO	BuildRuleResumed(//.okbuck/app:aar__appcompat-v7-23.0.1.aar#aar_unzip)
+2015-10-05T03:48:21.914	INFO	BuildRuleFinished(//.okbuck/app:aar__design-23.0.1.aar#aar_unzip): SUCCESS LOCAL_KEY_UNCHANGED_HIT MATCHING_RULE_KEY 491554848d8aa6fcaa61956ef0645b64676a1820
+2015-10-05T03:48:21.914	INFO	BuildRuleResumed(//.okbuck/app:aar__support-v4-23.0.1.aar#aar_unzip)
+2015-10-05T03:48:21.917	INFO	BuildRuleFinished(//.okbuck/app:aar__design-23.0.1.aar#aar_prebuilt_jar): SUCCESS LOCAL_KEY_UNCHANGED_HIT MATCHING_RULE_KEY 9ac09eea2d2e1906df0c6f3486685bad69a3bcc1
+2015-10-05T03:48:21.917	INFO	BuildRuleFinished(//.okbuck/app:aar__support-v4-23.0.1.aar#aar_unzip): SUCCESS LOCAL_KEY_UNCHANGED_HIT MATCHING_RULE_KEY 8a9375bc16cacc19485d7ddee83ebe585cfd2333
+2015-10-05T03:48:21.917	INFO	BuildRuleResumed(//.okbuck/app:jars__support-annotations-23.0.1.jar)
+2015-10-05T03:48:21.917	INFO	BuildRuleResumed(//.okbuck/app:jars__umeng-analytics-v5.6.1.jar)
+2015-10-05T03:48:21.919	INFO	BuildRuleFinished(//.okbuck/app:aar__appcompat-v7-23.0.1.aar#aar_prebuilt_jar): SUCCESS LOCAL_KEY_UNCHANGED_HIT MATCHING_RULE_KEY 19ccda9d269653550d7f6951ccb59399310bc385
+2015-10-05T03:48:21.919	INFO	BuildRuleResumed(//app:app_keystore)
+2015-10-05T03:48:21.923	INFO	BuildRuleFinished(//app:app_keystore): SUCCESS LOCAL_KEY_UNCHANGED_HIT MATCHING_RULE_KEY bf7237deba635a4d1e1738625e3f513396235b08
+2015-10-05T03:48:21.923	INFO	BuildRuleResumed(//app:bin#aapt_package)
+2015-10-05T03:48:21.923	INFO	BuildRuleFinished(//.okbuck/app:jars__support-annotations-23.0.1.jar): SUCCESS LOCAL_KEY_UNCHANGED_HIT MATCHING_RULE_KEY d68ad0b7b663b17b4ad54cdb9353516612f76f5a
+2015-10-05T03:48:21.923	INFO	BuildRuleResumed(//app:bin#copy_native_libs)
+2015-10-05T03:48:21.924	INFO	BuildRuleSuspended(//app:bin#aapt_package)
+2015-10-05T03:48:21.924	INFO	BuildRuleResumed(//app:bin#dex_merge)
+2015-10-05T03:48:21.924	INFO	BuildRuleSuspended(//app:bin#copy_native_libs)
+2015-10-05T03:48:21.924	INFO	BuildRuleFinished(//.okbuck/app:aar__support-v4-23.0.1.aar#aar_prebuilt_jar): SUCCESS LOCAL_KEY_UNCHANGED_HIT MATCHING_RULE_KEY 04b008f4ae17de173338f43fca7a8e3100f0a0d0
+2015-10-05T03:48:21.924	INFO	BuildRuleResumed(//app:res)
+2015-10-05T03:48:21.924	INFO	BuildRuleResumed(//app:src)
+2015-10-05T03:48:21.925	INFO	BuildRuleSuspended(//app:bin#dex_merge)
+2015-10-05T03:48:21.925	INFO	BuildRuleSuspended(//app:src)
+2015-10-05T03:48:21.925	INFO	BuildRuleSuspended(//app:res)
+2015-10-05T03:48:21.925	INFO	BuildRuleResumed(//.okbuck/app:aar__appcompat-v7-23.0.1.aar)
+2015-10-05T03:48:21.925	INFO	BuildRuleResumed(//.okbuck/app:aar__design-23.0.1.aar)
+2015-10-05T03:48:21.926	INFO	BuildRuleFinished(//.okbuck/app:jars__umeng-analytics-v5.6.1.jar): SUCCESS LOCAL_KEY_UNCHANGED_HIT MATCHING_RULE_KEY 26ce61f2dca19e53dda44b2d0a822b5feeb98a4a
+2015-10-05T03:48:21.926	INFO	BuildRuleResumed(//.okbuck/app:aar__support-v4-23.0.1.aar)
+2015-10-05T03:48:21.926	INFO	BuildRuleResumed(//.okbuck/app:aar__appcompat-v7-23.0.1.aar#aar_prebuilt_jar,dex)
+2015-10-05T03:48:21.926	INFO	BuildRuleSuspended(//.okbuck/app:aar__design-23.0.1.aar)
+2015-10-05T03:48:21.926	INFO	BuildRuleSuspended(//.okbuck/app:aar__support-v4-23.0.1.aar)
+2015-10-05T03:48:21.926	INFO	BuildRuleResumed(//.okbuck/app:aar__design-23.0.1.aar#aar_prebuilt_jar,dex)
+2015-10-05T03:48:21.927	INFO	BuildRuleResumed(//.okbuck/app:aar__support-v4-23.0.1.aar#aar_prebuilt_jar,dex)
+2015-10-05T03:48:21.932	INFO	BuildRuleFinished(//.okbuck/app:aar__appcompat-v7-23.0.1.aar): SUCCESS LOCAL_KEY_UNCHANGED_HIT MATCHING_RULE_KEY 75c1a6f0148be8e42daf80b5b479d5e9d995ffb3
+2015-10-05T03:48:21.932	INFO	BuildRuleResumed(//.okbuck/annotation_processor_deps:all-aars)
+2015-10-05T03:48:21.934	INFO	BuildRuleSuspended(//.okbuck/annotation_processor_deps:all-aars)
+2015-10-05T03:48:21.935	INFO	BuildRuleResumed(//.okbuck/app:jars__support-annotations-23.0.1.jar#dex)
+2015-10-05T03:48:21.937	INFO	BuildRuleFinished(//.okbuck/app:aar__appcompat-v7-23.0.1.aar#aar_unzip): SUCCESS LOCAL_KEY_UNCHANGED_HIT MATCHING_RULE_KEY c88db4bf2d543f8c0288b79a857f4d7b27d611a2
+2015-10-05T03:48:21.937	INFO	BuildRuleFinished(//.okbuck/app:aar__design-23.0.1.aar#aar_prebuilt_jar,dex): SUCCESS LOCAL_KEY_UNCHANGED_HIT MATCHING_RULE_KEY 4372f1aaa4c62a3040b9e3a79540ac74ed9cda30
+2015-10-05T03:48:21.937	INFO	BuildRuleResumed(//.okbuck/app:jars__umeng-analytics-v5.6.1.jar#dex)
+2015-10-05T03:48:21.939	INFO	BuildRuleResumed(//app:res)
+2015-10-05T03:48:21.942	INFO	BuildRuleFinished(//.okbuck/app:jars__support-annotations-23.0.1.jar#dex): SUCCESS LOCAL_KEY_UNCHANGED_HIT MATCHING_RULE_KEY 22eae8670010034605f0ba3b638c14841d7df27c
+2015-10-05T03:48:21.943	INFO	BuildRuleResumed(//app:src#dex)
+2015-10-05T03:48:21.943	INFO	BuildRuleFinished(//.okbuck/app:aar__appcompat-v7-23.0.1.aar#aar_prebuilt_jar,dex): SUCCESS LOCAL_KEY_UNCHANGED_HIT MATCHING_RULE_KEY 12e6226272453f32996a6a04b387d17fdba1e940
+2015-10-05T03:48:21.943	INFO	BuildRuleResumed(//.okbuck/annotation_processor_deps:all-jars)
+2015-10-05T03:48:21.944	INFO	BuildRuleSuspended(//app:src#dex)
+2015-10-05T03:48:21.944	INFO	BuildRuleResumed(//.okbuck/app:aar__appcompat-v7-23.0.1.aar#abi)
+2015-10-05T03:48:21.944	INFO	BuildRuleSuspended(//.okbuck/annotation_processor_deps:all-jars)
+2015-10-05T03:48:21.945	INFO	BuildRuleResumed(//.okbuck/app:aar__design-23.0.1.aar#abi)
+2015-10-05T03:48:21.948	INFO	BuildRuleFinished(//.okbuck/app:aar__design-23.0.1.aar#abi): SUCCESS LOCAL_KEY_UNCHANGED_HIT MATCHING_RULE_KEY 41dbdf49e818ab47240931c8ddb3570e946f6116
+2015-10-05T03:48:21.948	INFO	BuildRuleFinished(//.okbuck/app:aar__appcompat-v7-23.0.1.aar#abi): SUCCESS LOCAL_KEY_UNCHANGED_HIT MATCHING_RULE_KEY 414c1df7a76f3d9b795a23e24451d9fdcf34b99b
+2015-10-05T03:48:21.948	INFO	BuildRuleResumed(//.okbuck/app:aar__support-v4-23.0.1.aar#abi)
+2015-10-05T03:48:21.948	INFO	BuildRuleResumed(//.okbuck/app:all-aars)
+2015-10-05T03:48:21.948	INFO	BuildRuleFinished(//.okbuck/app:jars__umeng-analytics-v5.6.1.jar#dex): SUCCESS LOCAL_KEY_UNCHANGED_HIT MATCHING_RULE_KEY 3828e866a6a43763b18d219ab293ab5ff5fcfb6b
+2015-10-05T03:48:21.948	INFO	BuildRuleResumed(//.okbuck/app:all-jars)
+2015-10-05T03:48:21.949	INFO	BuildRuleSuspended(//.okbuck/app:all-aars)
+2015-10-05T03:48:21.949	INFO	BuildRuleResumed(//.okbuck/app:jars__support-annotations-23.0.1.jar#abi)
+2015-10-05T03:48:21.949	INFO	BuildRuleSuspended(//.okbuck/app:all-jars)
+2015-10-05T03:48:21.949	INFO	BuildRuleResumed(//.okbuck/app:jars__umeng-analytics-v5.6.1.jar#abi)
+2015-10-05T03:48:21.949	INFO	BuildRuleFinished(//.okbuck/app:aar__support-v4-23.0.1.aar#abi): SUCCESS LOCAL_KEY_UNCHANGED_HIT MATCHING_RULE_KEY 1c01e07188d2c361a150e540e3b1fe521b664df5
+2015-10-05T03:48:21.949	INFO	BuildRuleResumed(//app:src#abi,dummy_r_dot_java)
+2015-10-05T03:48:21.950	INFO	BuildRuleSuspended(//.okbuck/app:jars__umeng-analytics-v5.6.1.jar#abi)
+2015-10-05T03:48:21.950	INFO	BuildRuleResumed(//app:src#dummy_r_dot_java)
+2015-10-05T03:48:21.951	INFO	BuildRuleFinished(//.okbuck/app:jars__support-annotations-23.0.1.jar#abi): SUCCESS LOCAL_KEY_UNCHANGED_HIT MATCHING_RULE_KEY c81aa1d3d4c3765683f99a8a3230e25582fb7cb5
+2015-10-05T03:48:21.951	INFO	BuildRuleResumed(//.okbuck/annotation_processor_deps:all-aars)
+2015-10-05T03:48:21.951	INFO	BuildRuleSuspended(//app:src#dummy_r_dot_java)
+2015-10-05T03:48:21.951	INFO	BuildRuleSuspended(//app:src#abi,dummy_r_dot_java)
+2015-10-05T03:48:21.951	INFO	BuildRuleResumed(//.okbuck/annotation_processor_deps:all-jars)
+2015-10-05T03:48:21.952	INFO	BuildRuleResumed(//.okbuck/app:aar__design-23.0.1.aar)
+2015-10-05T03:48:21.956	INFO	BuildRuleFinished(//.okbuck/app:aar__support-v4-23.0.1.aar#aar_prebuilt_jar,dex): SUCCESS LOCAL_KEY_UNCHANGED_HIT MATCHING_RULE_KEY b1c0d2b02865854d256e168703d01b81971896ab
+2015-10-05T03:48:21.958	INFO	BuildRuleResumed(//.okbuck/app:all-aars#abi,dummy_r_dot_java)
+2015-10-05T03:48:21.961	INFO	BuildRuleSuspended(//.okbuck/app:all-aars#abi,dummy_r_dot_java)
+2015-10-05T03:48:21.961	INFO	BuildRuleResumed(//.okbuck/app:all-aars#dummy_r_dot_java)
+2015-10-05T03:48:21.962	INFO	BuildRuleSuspended(//.okbuck/app:all-aars#dummy_r_dot_java)
+2015-10-05T03:48:21.962	INFO	BuildRuleResumed(//.okbuck/app:aar__support-v4-23.0.1.aar)
+2015-10-05T03:48:21.988	INFO	BuildRuleFinished(//.okbuck/annotation_processor_deps:all-aars): SUCCESS MISS BUILT_LOCALLY f9c88de0b812f1d5f20fdc2c88e9a79c0f7e6f4c
+2015-10-05T03:48:21.988	INFO	BuildRuleFinished(//.okbuck/annotation_processor_deps:all-jars): SUCCESS MISS BUILT_LOCALLY 668cb50934eb42c998ad1d8f778d6584d9e841fb
+2015-10-05T03:48:21.988	INFO	BuildRuleResumed(//.okbuck/app:jars__umeng-analytics-v5.6.1.jar#abi)
+2015-10-05T03:48:21.996	INFO	BuildRuleFinished(//.okbuck/app:aar__design-23.0.1.aar): SUCCESS MISS BUILT_LOCALLY 8a763372fa766c29b03f42658d379ff7a0a7e4cc
+2015-10-05T03:48:21.999	INFO	BuildRuleResumed(//app:bin#copy_native_libs)
+2015-10-05T03:48:22.000	INFO	BuildRuleResumed(//.okbuck/app:all-aars#dummy_r_dot_java)
+2015-10-05T03:48:22.082	INFO	BuildRuleFinished(//app:res): FAIL MISS MISSING e575ac1e078eca64f29536eb317eb35d805e2765
+2015-10-05T03:48:22.082	INFO	BuildRuleResumed(//app:bin#aapt_package)
+2015-10-05T03:48:22.082	INFO	BuildRuleFinished(//app:bin#aapt_package): CANCELED MISS MISSING db014398fb8f7836fc0963ea7211f0c72f36d9fc
+2015-10-05T03:48:22.082	INFO	BuildRuleResumed(//app:src#dummy_r_dot_java)
+2015-10-05T03:48:22.082	INFO	BuildRuleFinished(//app:src#dummy_r_dot_java): CANCELED MISS MISSING f377ef3ab5db83fd43c65c0407f5c318747a564b
+2015-10-05T03:48:22.082	INFO	BuildRuleResumed(//app:src#abi,dummy_r_dot_java)
+2015-10-05T03:48:22.083	INFO	BuildRuleFinished(//app:src#abi,dummy_r_dot_java): CANCELED MISS MISSING b031b8524cb63970ff716cdb27f4bb5d08b40724
+2015-10-05T03:48:22.083	INFO	BuildRuleFinished(//.okbuck/app:aar__support-v4-23.0.1.aar): SUCCESS MISS BUILT_LOCALLY 6c81f377f79d097aaa5c351c9c9949a3411fd6fd
+2015-10-05T03:48:22.134	INFO	BuildRuleFinished(//app:bin#copy_native_libs): SUCCESS MISS BUILT_LOCALLY 7ca54db0442f0c39c084ae03b42a9e53bedbb2e6
+2015-10-05T03:48:22.377	INFO	BuildRuleResumed(//.okbuck/app:all-jars)
+2015-10-05T03:48:22.377	INFO	BuildRuleFinished(//.okbuck/app:all-jars): CANCELED MISS MISSING 4d9420390bbe690f5d89715b41f5225dbbe38f91
+2015-10-05T03:48:22.383	INFO	BuildRuleFinished(//.okbuck/app:jars__umeng-analytics-v5.6.1.jar#abi): SUCCESS MISS BUILT_LOCALLY 0f4dd3a36de2a90876fd9e2893b628dbe5c8e694
+2015-10-05T03:48:24.116	INFO	BuildRuleResumed(//.okbuck/app:all-aars#abi,dummy_r_dot_java)
+2015-10-05T03:48:24.116	INFO	BuildRuleFinished(//.okbuck/app:all-aars#abi,dummy_r_dot_java): CANCELED MISS MISSING 19573f1b3782b852d073ea152f218105e73cbb3c
+2015-10-05T03:48:24.116	INFO	BuildRuleResumed(//.okbuck/app:all-aars)
+2015-10-05T03:48:24.116	INFO	BuildRuleFinished(//.okbuck/app:all-aars): CANCELED MISS MISSING 81dfff80f1d2cc8607d76228ecaacbd68eb27ea1
+2015-10-05T03:48:24.116	INFO	BuildRuleResumed(//app:src)
+2015-10-05T03:48:24.116	INFO	BuildRuleFinished(//app:src): CANCELED MISS MISSING 69ce0657350e6a01c9ff1398b0c76d8e05e1bb43
+2015-10-05T03:48:24.116	INFO	BuildRuleResumed(//app:src#dex)
+2015-10-05T03:48:24.117	INFO	BuildRuleFinished(//app:src#dex): CANCELED MISS MISSING 2408e8974e37e84fe6eede5fc1348cceed816ce9
+2015-10-05T03:48:24.117	INFO	BuildRuleResumed(//app:bin#dex_merge)
+2015-10-05T03:48:24.117	INFO	BuildRuleFinished(//app:bin#dex_merge): CANCELED MISS MISSING ed2839ef2349634ed696ae87c63fb199d981cf4b
+2015-10-05T03:48:24.117	INFO	BuildRuleResumed(//app:bin)
+2015-10-05T03:48:24.117	INFO	BuildRuleFinished(//app:bin): CANCELED MISS MISSING 400ed875233654e12f4ae6850b54d89801aa036c
+2015-10-05T03:48:24.160	INFO	BuildRuleFinished(//.okbuck/app:all-aars#dummy_r_dot_java): SUCCESS MISS BUILT_LOCALLY 40ad27413aec3bd06e3f66e0af40d108dee3f2ac
+2015-10-05T03:48:24.160	INFO	Build finished

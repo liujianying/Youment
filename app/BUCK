@@ -1,0 +1,46 @@
+keystore(
+	name = 'app_keystore',
+	store = 'debug.keystore',
+	properties = 'debug.keystore.properties',
+)
+
+android_resource(
+	name = 'res',
+	res = 'src/main/res',
+	package = 'com.wifi.youment',
+	visibility = ['//app:src'],
+)
+
+android_library(
+	name = 'src',
+	srcs = glob(['src/main/java/**/*.java']),
+	deps = [
+		':res',
+		'//.okbuck/app:all-jars',
+		'//.okbuck/app:all-aars',
+	],
+	annotation_processors = [
+	],
+	annotation_processor_deps = [
+		'//.okbuck/app:all-jars',
+		'//.okbuck/app:all-aars',
+		'//.okbuck/annotation_processor_deps:all-jars',
+		'//.okbuck/annotation_processor_deps:all-aars',
+	],
+)
+
+android_binary(
+	name = 'bin',
+	manifest = 'src/main/AndroidManifest.xml',
+	keystore = ':app_keystore',
+	deps = [
+		':res',
+		':src',
+	],
+)
+
+project_config(
+	src_target = ':bin',
+	src_roots = ['src/main/java'],
+)
+
